@@ -41,11 +41,6 @@ To achieve the style transfer effect, the following deep learning techniques and
 - After the optimization loop completed, the final generated tensor was post-processed.
 - This involved reversing the normalization and converting the tensor back into a viewable image format.
 
-## Results
-![Results](https://tensorflow.org/tutorials/generative/style_transfer_files/output_19_0.png)
-
-*The image above shows the result of applying the style of Kandinsky's "Composition VII" to a photograph of a sea turtle.*
-
 ### Conclusion
 The project successfully demonstrates that by defining loss functions based on feature representations from a deep CNN, it is possible to separate and recombine the content and style of images.
 
