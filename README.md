@@ -1,7 +1,7 @@
 # Neural Art Transfer
 
 ## Introduction
-his project implements Neural Style Transfer, a powerful technique that uses deep learning to compose images in the style of another image. Based on the paper "[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)" by Gatys et al., this project leverages a pre-trained convolutional neural network (CNN) to separate and recombine the content and style of arbitrary images.
+This project implements Neural Style Transfer, a powerful technique that uses deep learning to compose images in the style of another image. Based on the paper "[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)" by Gatys et al., this project leverages a pre-trained convolutional neural network (CNN) to separate and recombine the content and style of arbitrary images.
 
 ## 🫡 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/heytanix)
